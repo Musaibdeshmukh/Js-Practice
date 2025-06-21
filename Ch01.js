@@ -4,7 +4,7 @@
 // In JavaScript, there are three ways to declare variables: var, let, and const
 
 
-console.log("This repl contains code for the Ultimate JavaScript course video no 2")
+console.log("This repl contains code for the Ultimate JavaScript course")
 var a = 67 // a contains 67
 console.log(a)
 a = "harry"
