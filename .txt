@@ -1,0 +1,84 @@
+✅ Week 1 – JavaScript Basics
+🔸 Day 1–2: Variables & Data Types
+var, let, const (difference)
+
+Data types: string, number, boolean, array, object, null, undefined
+
+🔸 Day 3: Functions
+Normal functions
+
+Arrow functions (()=>{}) & return keyword
+
+🔸 Day 4: Arrays
+Array methods: map(), filter(), forEach()
+
+Practice: loop over array, print items
+
+🔸 Day 5: Objects
+Creating and accessing object properties
+
+Destructuring: const { name } = user;
+
+🔸 Day 6: Template Literals
+Hello ${name} type syntax
+
+🔸 Day 7: Practice Quiz + Mini Project
+Ek chhoti si todo list banaao (console-based)
+
+Quiz on let/const, functions, map, objects
+
+✅ Week 2 – ES6 + Async JavaScript
+🔸 Day 1–2: Spread/Rest Operators
+Arrays/objects ko copy/merge karna: [...arr], {...obj}
+
+🔸 Day 3: Conditionals
+if, else, else if
+
+Ternary: condition ? 'Yes' : 'No'
+
+🔸 Day 4: Loops
+for, while, for...of, forEach
+
+🔸 Day 5: Promises & Async/Await
+fetch() API
+
+then/catch
+
+async/await syntax
+
+🔸 Day 6: Modules
+export, import, multiple files use karna
+
+🔸 Day 7: Mini Project
+API call se users list fetch karo (like from JSONPlaceholder)
+
+Console mein display karo
+
+✅ Week 3 – React Basics Start
+🔸 Day 1–2: Introduction to React
+create-react-app setup
+
+JSX syntax (HTML inside JavaScript)
+
+Components: Functional components
+
+🔸 Day 3: useState Hook
+Counter app
+
+Changing text on button click
+
+🔸 Day 4: props & Component Reusability
+Ek Parent component se data bhejna Child ko
+
+🔸 Day 5: map() in JSX
+List rendering (fruit list, user list, etc.)
+
+🔸 Day 6: useEffect Hook
+API call on component load
+
+Dependency array [ ], [value]
+
+🔸 Day 7: React Mini Project
+Simple Todo app with Add/Delete
+
+Data ko useState, map(), aur filter() se handle karo
