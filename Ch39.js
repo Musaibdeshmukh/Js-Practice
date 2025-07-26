@@ -1,3 +1,5 @@
+//  PROMISE CHAINING IN JAVASCRIPT
+
 
 let p1 = new Promise((resolve, reject) => {
         setTimeout(() => {
